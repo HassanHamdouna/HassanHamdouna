@@ -106,7 +106,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31jooxqezjjilwhkzejzbtpwbbjq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31jooxqezjjilwhkzejzbtpwbbjq&cover_image=true&theme=default&show_offline=true&background_color=444141&bar_color=53b14f&bar_color_cover=false)" /></div>  
 
 <br/>  
 
