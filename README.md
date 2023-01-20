@@ -69,7 +69,10 @@
 <div >
   <img align="left" width="50%" height="185em" src="https://github-readme-stats.vercel.app/api?username=hassanhamdouna&show_icons=true&count_private=true&hide_border=true" />
   <a href="https://www.credly.com/badges/2f0cc0d9-f838-4fa8-9193-f30ab24b813a/public_url">
-<img align="center" width="150px" src="https://user-images.githubusercontent.com/72108088/184443807-a63a0c6d-2c54-4cab-a0ca-32901085071d.png">
+<img align="center" width="170px" src="https://user-images.githubusercontent.com/72108088/184443807-a63a0c6d-2c54-4cab-a0ca-32901085071d.png">
+</a>
+    <a href="https://www.credly.com/badges/74218f35-85fc-4fc9-b8e8-1346bddec158/public_url">
+<img align="center" width="190px" src="https://images.credly.com/size/220x220/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png">
 </a>
  </div>
  
