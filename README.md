@@ -53,10 +53,8 @@
 <a href="https://laravel.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="55" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="55" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="55" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="55" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="55" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="55" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="55" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="55" /></a>   
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="55" /></a>   
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="55" /></a>  
   <a href="" target="_blank"><img style="margin: 15px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="CSS3" height="55" /></a>
 </div>
