@@ -6,7 +6,7 @@
 ### <div align="center">I'm Hassan , a full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I am currently working on building myself  
   
 
 - 🌱 I’m currently learning  (JavaScript , Flutter ,IOS, )  
