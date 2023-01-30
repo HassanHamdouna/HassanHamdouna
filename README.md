@@ -65,7 +65,7 @@
 
 ## Github Stats  
 <div >
-  <img align="left" width="50%" height="185em" src="https://github-readme-stats.vercel.app/api?username=hassanhamdouna&show_icons=true&count_private=true&hide_border=true" />
+  <img align="left" width="50%" height="185em" src="https://github-readme-stats.vercel.app/api?username=hassanhamdouna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <a href="https://www.credly.com/badges/2f0cc0d9-f838-4fa8-9193-f30ab24b813a/public_url">
 <img align="center" width="170px" src="https://user-images.githubusercontent.com/72108088/184443807-a63a0c6d-2c54-4cab-a0ca-32901085071d.png">
 </a>
