@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Hassan , a full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
+### <div align="center">I'm Hassan , 👨‍💻 Flutter Developer | Building Awesome Mobile Apps 📱 working remotely 🚀</div>  
   
 
 - 🔭 I am currently working on building myself  
   
 
-- 🌱 I’m currently learning  (JavaScript , Flutter ,IOS, )  
+- 🌱 I’m currently learning  (JavaScript , Quality Assurance , self development, )  
   
 
 - ❓ Ask me about anything related to and related technologies  
